@@ -1,0 +1,18 @@
+---
+:secret_word: unlimited
+:num_guess: 4
+:already_guessed:
+- r
+- e
+- a
+- i
+:blanks:
+- _
+- _
+- _
+- i
+- _
+- i
+- _
+- e
+- _
